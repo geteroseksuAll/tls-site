@@ -106,7 +106,7 @@ export default {
       {
         id: 1,
         title: "Информационные технологии",
-        img: "/icons/programsList-1.png",
+        img: "icons/programsList-1.png",
         text1: "- Scratch <br> - Основы IT технологий",
         text2:
           "- Алгоритмизация и основы устройства ПК <br> - Основы программирования",
@@ -121,7 +121,7 @@ export default {
       {
         id: 2,
         title: "Химический",
-        img: "/icons/programsList-2.png",
+        img: "icons/programsList-2.png",
         text1: "- «Детская» химия <br> - Химия в истории Человечества",
         text2: "- Химия в нашей жизни <br> - Химия и экология",
         text3:
@@ -136,7 +136,7 @@ export default {
       {
         id: 3,
         title: "Инженерный",
-        img: "/icons/programsList-3.png",
+        img: "icons/programsList-3.png",
         text1:
           "- Основы электроники часть 1 <br> - Основы математической физики, теория чисел",
         text2: "- Основы электроники часть 2<br> - Логика и ТРИЗ",
@@ -152,7 +152,7 @@ export default {
       {
         id: 4,
         title: "Социология и политология",
-        img: "/icons/programsList-4.png",
+        img: "icons/programsList-4.png",
         text1: "- Основы социологии <br> - Основы права",
         text2: "- Менеджмент <br> - Психология",
         text3:
@@ -168,7 +168,7 @@ export default {
       {
         id: 5,
         title: "Экономика и предпринимательство",
-        img: "/icons/programsList-5.png",
+        img: "icons/programsList-5.png",
         text1:
           "- Деньги и их происхождение, личные финансы <br> - Основы права",
         text2: "- Менеджмент, тайм-менеджмент <br> - Психология потребителей",
@@ -185,7 +185,7 @@ export default {
       {
         id: 6,
         title: "Юридический",
-        img: "/icons/programsList-6.png",
+        img: "icons/programsList-6.png",
         text1: "- Личные финансы <br> - Основы права",
         text2: "- Менеджмент <br> - Психология",
         text3:

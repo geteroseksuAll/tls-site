@@ -33,7 +33,7 @@ export default {
     about_list: [
       {
         id: 1,
-        img: "/icons/about-1.png",
+        img: "icons/about-1.png",
         h3: "Профили",
         strong1: "– Инженерно-технологический",
         text1: "Инженерный, ИТ, химический",
@@ -43,7 +43,7 @@ export default {
       },
       {
         id: 2,
-        img: "/icons/about-2.png",
+        img: "icons/about-2.png",
         h3: "Педагоги",
         strong1: "– Кураторы программ",
         text1: "Доктора и кандидаты наук (опыт преподавания от 5 лет)",
@@ -52,7 +52,7 @@ export default {
       },
       {
         id: 3,
-        img: "/icons/about-3.png",
+        img: "icons/about-3.png",
         h3: "Наш подход  ",
         strong1: "– Проектное обучение",
         text1:

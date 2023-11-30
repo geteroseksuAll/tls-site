@@ -33,21 +33,21 @@ export default {
       },
       {
         id: 2,
-        img: "/icons/recomendations-2.png",
+        img: "icons/recomendations-2.png",
         text1: "Индивидуальная траектория обучения",
         text2:
           "Комплекс профориентационных мероприятий на базе вузов и предприятий.Инновационные программы обучения.",
       },
       {
         id: 3,
-        img: "/icons/recomendations-3.png",
+        img: "icons/recomendations-3.png",
         text1: "Реализация знаний",
         text2:
           "Фундаментальное образование, связь теории и практики.Консультация и поддержка при поступлении.",
       },
       {
         id: 4,
-        img: "/icons/recomendations-4.png",
+        img: "icons/recomendations-4.png",
         text1: "Результаты",
         text2: "Проектное обучение.Развиваем soft skills.",
       },
