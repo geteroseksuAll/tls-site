@@ -25,7 +25,7 @@ export default {
         { text: "Новости", a: "#news" },
         { text: "О проекте", a: "#about" },
         { text: "Образование", a: "#edu" },
-        { text: "Обучение", a: "#news" },
+        { text: "Обучение", a: "/our-learning" },
         { text: "Контакты", a: "#footer" },
       ],
     };
