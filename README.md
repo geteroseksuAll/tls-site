@@ -1,29 +1,3 @@
-# tls_site
+#tls_site 
 
-## Project setup
-
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-
-```
-npm run build
-```
-
-### Lints and fixes files
-
-```
-npm run lint
-```
-
-### Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
+По макету сайта, сверстал, изменил дизайн, так попросил заказчик. Верстал около 2 недель, первый оплачиваемый проект.
